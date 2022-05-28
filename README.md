@@ -6,6 +6,8 @@ You need to edit the **main/static/js/main.chunk.js** file to change the solana 
 
 To get instant support, contact me on [Telegram](https://t.me/alkat7)
 
+---
+
 ## 🛡️ Features
 - [x] Inspect Element Detection
 - [x] No API needed
